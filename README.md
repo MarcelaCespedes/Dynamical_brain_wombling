@@ -1,2 +1,20 @@
 # Dynamical_brain_wombling
-Estimate neighbourhood structures which vary over time
+
+This repository provides the necessary files to implement dynamical wombling, as described in the manuscript titled *Network dynamics over age reveal spatio-temporal patterns of degeneration in Alzheimer's disease*, available here (insert ePubs link).
+
+Intention for this repository is to provide the R code to implement dynamical wombling on simulated data, in addition to any supplementary material from the manuscript.
+
+This repository contains
+1. The R code for simulation of spatial data according to the methods described in the paper, for 10 ROIs.
+2. All the R code to run dynamical wombling, as an example.
+3. Additional visualisation code to reproduce Figure 2 inthe manuscript.
+4. Supplementary material for the paper.
+
+In the manuscript dynamical wombling was applied on the Alzheimer's disease neuroimaging initiative (ADNI), which is a world-wide data sharing and collaboration for AD research. ADNI is a multisite ongoing longitudinal study designed to develop clinical, imaging, genetic and biochemical biomarkers for Alzheimer's research, whose focus is on early detection and tracking of Alzheimer's disease.
+
+Further information on ADNI, is available [here](http://adni.loni.usc.edu/).
+
+#### Future work
+As this work is already an extention to [brain wombling](https://github.com/MarcelaCespedes/Brain_wombling), any further extension to the dynamical wombling algorith is presented in the Discussion section of the manuscript. 
+
+For any information/feedback/bugs or comments on this code or the manuscript, please email: Marcela.Cespedes@hdr.qut.edu.au

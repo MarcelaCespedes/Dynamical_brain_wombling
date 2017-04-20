@@ -224,7 +224,7 @@ mat.g0<- mat.g1<- array(0, dim = c(K, K, mcmc))
 
 # initiate different starting values for gamma's ::: same data, just different starting values
 source("diff.gamma.start.r")
-d.gamma<- diff.gamma.start(I=I, K=K, R=R, age=age)
+d.gamma<- diff.gamma.start(age=age)
 
 mat.g0[,,1]<- d.gamma$init.g0
 mat.g1[,,1]<- d.gamma$init.g1

@@ -1,10 +1,8 @@
 #####################################################3
-# Sunday 22 Jan
-# this code corresponds with GenSpatTemp_Wombling_T4.r
 # Here we generate different starting values for 
 # gamma matrices and W
 
-diff.gamma.start<- function(K, I, R, age){
+diff.gamma.start<- function(age){
   W_young = matrix(c(0, 1, 1, 1, 1, 0, 0, 0, 0, 0,
                      1, 0, 1, 1, 1, 0, 0, 0, 0, 0,
                      1, 1, 0, 1, 1, 0, 0, 0, 0, 0,

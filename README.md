@@ -8,7 +8,7 @@ This repository contains
 1. The R code for simulation of spatial data according to the methods described in the paper, for 10 ROIs.
 2. All the R code to run dynamic wombling, as an example.
 3. Additional visualisation code to reproduce Figure 2 inthe manuscript.
-4. Supplementary material for the paper.
+4. Supplementary information for the paper.
 
 In the manuscript dynamical wombling was applied on the Alzheimer's disease neuroimaging initiative (ADNI), which is a world-wide data sharing and collaboration for AD research. ADNI is a multisite ongoing longitudinal study designed to develop clinical, imaging, genetic and biochemical biomarkers for Alzheimer's research, whose focus is on early detection and tracking of Alzheimer's disease.
 

@@ -1,12 +1,12 @@
 # Dynamical_brain_wombling
 
-This repository provides the necessary files to implement dynamical wombling, as described in the manuscript titled *Network dynamics over age reveal spatio-temporal patterns of degeneration in Alzheimer's disease*, available here (insert ePubs link).
+This repository provides the necessary files to implement dynamical wombling, as described in the manuscript titled *Relative rate of change in cognitive score network dynamics via Bayesian hierarchical models reveal spatial patterns of neurodegeneration*, available here (insert ePubs link).
 
 Intention for this repository is to provide the R code to implement dynamical wombling on simulated data, in addition to any supplementary material from the manuscript.
 
 This repository contains
 1. The R code for simulation of spatial data according to the methods described in the paper, for 10 ROIs.
-2. All the R code to run dynamical wombling, as an example.
+2. All the R code to run dynamic wombling, as an example.
 3. Additional visualisation code to reproduce Figure 2 inthe manuscript.
 4. Supplementary material for the paper.
 

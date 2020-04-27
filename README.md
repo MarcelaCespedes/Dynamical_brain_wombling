@@ -1,6 +1,6 @@
 # Dynamical_brain_wombling
 
-This repository provides the necessary files to implement dynamical wombling, as described in the manuscript titled *Relative rate of change in cognitive score network dynamics via Bayesian hierarchical models reveal spatial patterns of neurodegeneration*, available here (insert ePubs link).
+This repository provides the necessary files to implement dynamical wombling, as described in the manuscript titled *Relative rate of change in cognitive score network dynamics via Bayesian hierarchical models reveal spatial patterns of neurodegeneration*, available here (insert ePubs link) and published in Statistics in Medicine (DOI 10.1002/sim.8568).
 
 Intention for this repository is to provide the R code to implement dynamical wombling on simulated data, in addition to any supplementary material from the manuscript.
 

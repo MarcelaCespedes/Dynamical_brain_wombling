@@ -17,4 +17,4 @@ Further information on ADNI, is available [here](http://adni.loni.usc.edu/).
 #### Future work
 As this work is already an extention to [brain wombling](https://github.com/MarcelaCespedes/Brain_wombling), any further extension to the dynamical wombling algorith is presented in the Discussion section of the manuscript. 
 
-For any information/feedback/bugs or comments on this code or the manuscript, please email: Marcela.Cespedes@hdr.qut.edu.au
+For any information/feedback/bugs or comments on this code or the manuscript, please email: Marcela.Cespedes@csiro.au
